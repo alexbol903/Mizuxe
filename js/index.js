@@ -150,7 +150,6 @@ animLP({
     },
   ],
   param: {
-    startAnim: 100,
     once: false
   }
 });
